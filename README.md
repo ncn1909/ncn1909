@@ -62,7 +62,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="ncn1909-youtube" />
   </a>
   <a href="https://discord.com/channels/@me" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/null/discord-logo.png" alt="ncn1909-discord" />
+    <img src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" alt="ncn1909-discord" />
   </a>
 </div>
 
